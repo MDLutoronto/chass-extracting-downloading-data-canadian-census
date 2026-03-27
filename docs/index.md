@@ -3,6 +3,9 @@ title: "Extracting/downloading data using CHASS Canadian Census Analyser"
 layout: "home"
 description: "The CHASS Canadian Census Analyser allows members of the University of Toronto research community to generate custom tables from the Census of Canada (1961-2016) and the National Household Survey (2011). This tutorial provides an example of extracting and downloading data from CHASS."
 created_date: 2018-01-08
+maintainer:
+    - name: Leanne Trimble
+      link: https://library.utoronto.ca/staff/leanne-trimble
 permalink: "/"  #! Remove this if not the homepage
 ---
 
