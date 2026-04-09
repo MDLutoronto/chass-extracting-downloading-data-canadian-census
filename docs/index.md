@@ -63,5 +63,3 @@ This tutorial consists of *nine* steps. For this tutorial, we will be using the 
 *Please note that the **Header file** provides reference labels for the corresponding columns within the **Data file**
 
 [Back to Top](#extractingdownloading-data-using-chass-canadian-census-analyser)
-
-Technique: [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [CHASS Census Analyzer](https://mdl.library.utoronto.ca/taxonomy/term/72) | Data Format: [Statistics](https://mdl.library.utoronto.ca/data-format/statistics), [Vector](https://mdl.library.utoronto.ca/data-format/vector)
